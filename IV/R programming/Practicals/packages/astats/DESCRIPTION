@@ -1,0 +1,21 @@
+Package: astats
+Title: Package for Applied Statistics Tools
+Version: 0.0.0.9000
+Author: Avi
+Authors@R: 
+        person("Avinash", "Gautam", , "boss.avinashg@gmail.com", 
+              role = c("aut", "cre"), comment = c(GitHub = "Avinash-msc"))
+Description: 
+        In this astats package, my goal is to create function tools capable of 
+        doing statistical analysis. 
+        For example:
+        linearTrend() -> returns the linear trend of the time-series & plot the trendline
+        Xbar.Plot()   -> returns the vector of control limits & plot the control chart for mean
+        Range.Plot()  -> returns the vector of control limits & plot the control chart for range
+        & so on.
+License: 'use_gpl3_license()'
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.2
+Imports: 
+    graphics

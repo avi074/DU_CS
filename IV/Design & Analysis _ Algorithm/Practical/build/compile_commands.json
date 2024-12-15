@@ -1,0 +1,82 @@
+[
+{
+  "directory": "/home/avi/Desktop/B.SC./IV/Design & Analysis _ Algorithm/Practical/build",
+  "command": "/usr/bin/g++ -I\"/home/avi/Desktop/B.SC./IV/Design & Analysis _ Algorithm/Practical/matplotlib-cpp/examples\" -isystem /usr/include/python3.9 -isystem /usr/lib/python3/dist-packages/numpy/core/include -g -o CMakeFiles/minimal.dir/examples/minimal.cpp.o -c \"/home/avi/Desktop/B.SC./IV/Design & Analysis _ Algorithm/Practical/matplotlib-cpp/examples/minimal.cpp\"",
+  "file": "/home/avi/Desktop/B.SC./IV/Design & Analysis _ Algorithm/Practical/matplotlib-cpp/examples/minimal.cpp"
+},
+{
+  "directory": "/home/avi/Desktop/B.SC./IV/Design & Analysis _ Algorithm/Practical/build",
+  "command": "/usr/bin/g++ -I\"/home/avi/Desktop/B.SC./IV/Design & Analysis _ Algorithm/Practical/matplotlib-cpp/examples\" -isystem /usr/include/python3.9 -isystem /usr/lib/python3/dist-packages/numpy/core/include -g -o CMakeFiles/basic.dir/examples/basic.cpp.o -c \"/home/avi/Desktop/B.SC./IV/Design & Analysis _ Algorithm/Practical/matplotlib-cpp/examples/basic.cpp\"",
+  "file": "/home/avi/Desktop/B.SC./IV/Design & Analysis _ Algorithm/Practical/matplotlib-cpp/examples/basic.cpp"
+},
+{
+  "directory": "/home/avi/Desktop/B.SC./IV/Design & Analysis _ Algorithm/Practical/build",
+  "command": "/usr/bin/g++ -I\"/home/avi/Desktop/B.SC./IV/Design & Analysis _ Algorithm/Practical/matplotlib-cpp/examples\" -isystem /usr/include/python3.9 -isystem /usr/lib/python3/dist-packages/numpy/core/include -g -o CMakeFiles/modern.dir/examples/modern.cpp.o -c \"/home/avi/Desktop/B.SC./IV/Design & Analysis _ Algorithm/Practical/matplotlib-cpp/examples/modern.cpp\"",
+  "file": "/home/avi/Desktop/B.SC./IV/Design & Analysis _ Algorithm/Practical/matplotlib-cpp/examples/modern.cpp"
+},
+{
+  "directory": "/home/avi/Desktop/B.SC./IV/Design & Analysis _ Algorithm/Practical/build",
+  "command": "/usr/bin/g++ -I\"/home/avi/Desktop/B.SC./IV/Design & Analysis _ Algorithm/Practical/matplotlib-cpp/examples\" -isystem /usr/include/python3.9 -isystem /usr/lib/python3/dist-packages/numpy/core/include -g -o CMakeFiles/animation.dir/examples/animation.cpp.o -c \"/home/avi/Desktop/B.SC./IV/Design & Analysis _ Algorithm/Practical/matplotlib-cpp/examples/animation.cpp\"",
+  "file": "/home/avi/Desktop/B.SC./IV/Design & Analysis _ Algorithm/Practical/matplotlib-cpp/examples/animation.cpp"
+},
+{
+  "directory": "/home/avi/Desktop/B.SC./IV/Design & Analysis _ Algorithm/Practical/build",
+  "command": "/usr/bin/g++ -I\"/home/avi/Desktop/B.SC./IV/Design & Analysis _ Algorithm/Practical/matplotlib-cpp/examples\" -isystem /usr/include/python3.9 -isystem /usr/lib/python3/dist-packages/numpy/core/include -g -o CMakeFiles/nonblock.dir/examples/nonblock.cpp.o -c \"/home/avi/Desktop/B.SC./IV/Design & Analysis _ Algorithm/Practical/matplotlib-cpp/examples/nonblock.cpp\"",
+  "file": "/home/avi/Desktop/B.SC./IV/Design & Analysis _ Algorithm/Practical/matplotlib-cpp/examples/nonblock.cpp"
+},
+{
+  "directory": "/home/avi/Desktop/B.SC./IV/Design & Analysis _ Algorithm/Practical/build",
+  "command": "/usr/bin/g++ -I\"/home/avi/Desktop/B.SC./IV/Design & Analysis _ Algorithm/Practical/matplotlib-cpp/examples\" -isystem /usr/include/python3.9 -isystem /usr/lib/python3/dist-packages/numpy/core/include -g -o CMakeFiles/xkcd.dir/examples/xkcd.cpp.o -c \"/home/avi/Desktop/B.SC./IV/Design & Analysis _ Algorithm/Practical/matplotlib-cpp/examples/xkcd.cpp\"",
+  "file": "/home/avi/Desktop/B.SC./IV/Design & Analysis _ Algorithm/Practical/matplotlib-cpp/examples/xkcd.cpp"
+},
+{
+  "directory": "/home/avi/Desktop/B.SC./IV/Design & Analysis _ Algorithm/Practical/build",
+  "command": "/usr/bin/g++ -I\"/home/avi/Desktop/B.SC./IV/Design & Analysis _ Algorithm/Practical/matplotlib-cpp/examples\" -isystem /usr/include/python3.9 -isystem /usr/lib/python3/dist-packages/numpy/core/include -g -o CMakeFiles/bar.dir/examples/bar.cpp.o -c \"/home/avi/Desktop/B.SC./IV/Design & Analysis _ Algorithm/Practical/matplotlib-cpp/examples/bar.cpp\"",
+  "file": "/home/avi/Desktop/B.SC./IV/Design & Analysis _ Algorithm/Practical/matplotlib-cpp/examples/bar.cpp"
+},
+{
+  "directory": "/home/avi/Desktop/B.SC./IV/Design & Analysis _ Algorithm/Practical/build",
+  "command": "/usr/bin/g++ -I\"/home/avi/Desktop/B.SC./IV/Design & Analysis _ Algorithm/Practical/matplotlib-cpp/examples\" -isystem /usr/include/python3.9 -isystem /usr/lib/python3/dist-packages/numpy/core/include -g -o CMakeFiles/fill_inbetween.dir/examples/fill_inbetween.cpp.o -c \"/home/avi/Desktop/B.SC./IV/Design & Analysis _ Algorithm/Practical/matplotlib-cpp/examples/fill_inbetween.cpp\"",
+  "file": "/home/avi/Desktop/B.SC./IV/Design & Analysis _ Algorithm/Practical/matplotlib-cpp/examples/fill_inbetween.cpp"
+},
+{
+  "directory": "/home/avi/Desktop/B.SC./IV/Design & Analysis _ Algorithm/Practical/build",
+  "command": "/usr/bin/g++ -I\"/home/avi/Desktop/B.SC./IV/Design & Analysis _ Algorithm/Practical/matplotlib-cpp/examples\" -isystem /usr/include/python3.9 -isystem /usr/lib/python3/dist-packages/numpy/core/include -g -o CMakeFiles/fill.dir/examples/fill.cpp.o -c \"/home/avi/Desktop/B.SC./IV/Design & Analysis _ Algorithm/Practical/matplotlib-cpp/examples/fill.cpp\"",
+  "file": "/home/avi/Desktop/B.SC./IV/Design & Analysis _ Algorithm/Practical/matplotlib-cpp/examples/fill.cpp"
+},
+{
+  "directory": "/home/avi/Desktop/B.SC./IV/Design & Analysis _ Algorithm/Practical/build",
+  "command": "/usr/bin/g++ -I\"/home/avi/Desktop/B.SC./IV/Design & Analysis _ Algorithm/Practical/matplotlib-cpp/examples\" -isystem /usr/include/python3.9 -isystem /usr/lib/python3/dist-packages/numpy/core/include -g -o CMakeFiles/update.dir/examples/update.cpp.o -c \"/home/avi/Desktop/B.SC./IV/Design & Analysis _ Algorithm/Practical/matplotlib-cpp/examples/update.cpp\"",
+  "file": "/home/avi/Desktop/B.SC./IV/Design & Analysis _ Algorithm/Practical/matplotlib-cpp/examples/update.cpp"
+},
+{
+  "directory": "/home/avi/Desktop/B.SC./IV/Design & Analysis _ Algorithm/Practical/build",
+  "command": "/usr/bin/g++ -I\"/home/avi/Desktop/B.SC./IV/Design & Analysis _ Algorithm/Practical/matplotlib-cpp/examples\" -isystem /usr/include/python3.9 -isystem /usr/lib/python3/dist-packages/numpy/core/include -g -o CMakeFiles/subplot2grid.dir/examples/subplot2grid.cpp.o -c \"/home/avi/Desktop/B.SC./IV/Design & Analysis _ Algorithm/Practical/matplotlib-cpp/examples/subplot2grid.cpp\"",
+  "file": "/home/avi/Desktop/B.SC./IV/Design & Analysis _ Algorithm/Practical/matplotlib-cpp/examples/subplot2grid.cpp"
+},
+{
+  "directory": "/home/avi/Desktop/B.SC./IV/Design & Analysis _ Algorithm/Practical/build",
+  "command": "/usr/bin/g++ -I\"/home/avi/Desktop/B.SC./IV/Design & Analysis _ Algorithm/Practical/matplotlib-cpp/examples\" -isystem /usr/include/python3.9 -isystem /usr/lib/python3/dist-packages/numpy/core/include -g -o CMakeFiles/lines3d.dir/examples/lines3d.cpp.o -c \"/home/avi/Desktop/B.SC./IV/Design & Analysis _ Algorithm/Practical/matplotlib-cpp/examples/lines3d.cpp\"",
+  "file": "/home/avi/Desktop/B.SC./IV/Design & Analysis _ Algorithm/Practical/matplotlib-cpp/examples/lines3d.cpp"
+},
+{
+  "directory": "/home/avi/Desktop/B.SC./IV/Design & Analysis _ Algorithm/Practical/build",
+  "command": "/usr/bin/g++ -I\"/home/avi/Desktop/B.SC./IV/Design & Analysis _ Algorithm/Practical/matplotlib-cpp/examples\" -isystem /usr/include/python3.9 -isystem /usr/lib/python3/dist-packages/numpy/core/include -g -o CMakeFiles/surface.dir/examples/surface.cpp.o -c \"/home/avi/Desktop/B.SC./IV/Design & Analysis _ Algorithm/Practical/matplotlib-cpp/examples/surface.cpp\"",
+  "file": "/home/avi/Desktop/B.SC./IV/Design & Analysis _ Algorithm/Practical/matplotlib-cpp/examples/surface.cpp"
+},
+{
+  "directory": "/home/avi/Desktop/B.SC./IV/Design & Analysis _ Algorithm/Practical/build",
+  "command": "/usr/bin/g++ -I\"/home/avi/Desktop/B.SC./IV/Design & Analysis _ Algorithm/Practical/matplotlib-cpp/examples\" -isystem /usr/include/python3.9 -isystem /usr/lib/python3/dist-packages/numpy/core/include -g -o CMakeFiles/colorbar.dir/examples/colorbar.cpp.o -c \"/home/avi/Desktop/B.SC./IV/Design & Analysis _ Algorithm/Practical/matplotlib-cpp/examples/colorbar.cpp\"",
+  "file": "/home/avi/Desktop/B.SC./IV/Design & Analysis _ Algorithm/Practical/matplotlib-cpp/examples/colorbar.cpp"
+},
+{
+  "directory": "/home/avi/Desktop/B.SC./IV/Design & Analysis _ Algorithm/Practical/build",
+  "command": "/usr/bin/g++ -I\"/home/avi/Desktop/B.SC./IV/Design & Analysis _ Algorithm/Practical/matplotlib-cpp/examples\" -isystem /usr/include/python3.9 -isystem /usr/lib/python3/dist-packages/numpy/core/include -g -o CMakeFiles/contour.dir/examples/contour.cpp.o -c \"/home/avi/Desktop/B.SC./IV/Design & Analysis _ Algorithm/Practical/matplotlib-cpp/examples/contour.cpp\"",
+  "file": "/home/avi/Desktop/B.SC./IV/Design & Analysis _ Algorithm/Practical/matplotlib-cpp/examples/contour.cpp"
+},
+{
+  "directory": "/home/avi/Desktop/B.SC./IV/Design & Analysis _ Algorithm/Practical/build",
+  "command": "/usr/bin/g++ -I\"/home/avi/Desktop/B.SC./IV/Design & Analysis _ Algorithm/Practical/matplotlib-cpp/examples\" -isystem /usr/include/python3.9 -isystem /usr/lib/python3/dist-packages/numpy/core/include -g -o CMakeFiles/spy.dir/examples/spy.cpp.o -c \"/home/avi/Desktop/B.SC./IV/Design & Analysis _ Algorithm/Practical/matplotlib-cpp/examples/spy.cpp\"",
+  "file": "/home/avi/Desktop/B.SC./IV/Design & Analysis _ Algorithm/Practical/matplotlib-cpp/examples/spy.cpp"
+}
+]
