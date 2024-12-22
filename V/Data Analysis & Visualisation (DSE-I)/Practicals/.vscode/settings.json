@@ -1,0 +1,5 @@
+{
+    "jupyter.jupyterServerType": "local",
+    "jupyter.enableAutoMoveToNextCell": true,
+    "notebook.output.textLineLimit": 0
+}

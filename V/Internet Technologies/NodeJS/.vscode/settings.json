@@ -1,0 +1,10 @@
+{
+    "editor.cursorStyle": "line",
+    "editor.wordWrap": "on",
+    "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+    "editor.foldingImportsByDefault": true,
+    "explorer.excludeGitIgnore": true,
+    "terminal.integrated.tabs.defaultColor": "terminal.ansiBlack",
+    "editor.formatOnSave": true,
+    "editor.fontLigatures": true,
+}

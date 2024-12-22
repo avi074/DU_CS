@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta http-equiv="refresh" content="30" />
+        <meta name="author" content="Avinash Gautam" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Sample 1</title>
+    </head>
+    <body>
+        <!-- Nav Bar -->
+        <nav>
+            <div class="nav-center">
+                <ul>
+                    <li class="item">
+                        <a href="#">Home</a>
+                    </li>
+
+                    <li class="item">
+                        <a href="#about">About</a>
+                    </li>
+
+                    <li class="item">
+                        <a href="#contact">Contact </a>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+
+        <!-- About Section -->
+        <div id="about">
+            <h1>About Page</h1>
+        </div>
+
+        <!-- Contact Section -->
+        <div id="contact">
+            <h1>Contact Details</h1>
+            <form action="submit" method="post" id="userDataForm1">
+                <label for="uName">Your Name : </label>
+                <input type="text" name="uName" id="name" required />
+
+                <label for="uMob">Mobile No : </label>
+                <input type="tel" name="uMob" id="mob" required />
+
+                <label for="uEmail">Your Email : </label>
+                <input type="email" name="uEmail" id="email" required />
+
+                <label for="uMsg">Your Message : </label>
+                <textarea
+                    id="msg"
+                    name="uMsg"
+                    rows="5"
+                    cols="50"
+                    aria-required="true"
+                    placeholder="Enter your message here !!!"
+                    required
+                ></textarea>
+
+                <input type="submit" value="Submit" />
+            </form>
+        </div>
+    </body>
+</html>

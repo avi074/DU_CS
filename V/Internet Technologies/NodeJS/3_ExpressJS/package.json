@@ -1,0 +1,18 @@
+{
+  "name": "express_project",
+  "version": "1.0.0",
+  "description": "A demo app/server using expressJS",
+  "main": "app.js",
+  "author": "AVINASH",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  },
+  "scripts": {
+    "start": "nodemon app.js"
+  }
+}
